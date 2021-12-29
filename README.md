@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Irina
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking for a remote job
+- 💞️ I’m looking for a remote job as a Junior Developer
 - 📫 How to reach me: xxena.mail@gmail.com
 
 <!---
